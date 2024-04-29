@@ -1,0 +1,17 @@
+body{
+  margin: 0px;
+  background-color: black;
+}
+#canvas{
+  background-color: black;
+  height: 70vh;
+  width: 60vw;
+  margin-left: 15rem;
+  margin-top: 2rem;
+  border:2px solid burlywood
+}
+h3{
+  color: aquamarine;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
